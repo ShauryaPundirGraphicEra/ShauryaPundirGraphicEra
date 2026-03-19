@@ -67,11 +67,11 @@ Building intelligent systems, scalable backend services, and modern web apps.
 <img src="https://skillicons.dev/icons?i=pytorch"/>
 </p>
 
-Tools & Frameworks
-LangChain
-HuggingFace
-REST APIs
-Git
+# Tools & Frameworks
+- LangChain
+- HuggingFace
+- REST APIs
+- Git
 ---
 
 # 📊 GitHub Stats
@@ -136,4 +136,3 @@ Git
 
 ---
 
-# ⚡ Fun Fact

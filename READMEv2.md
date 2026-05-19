@@ -41,7 +41,12 @@ Building intelligent multi-agent systems, scalable backend services, and modern 
 <p>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://www.svgrepo.com/show/184143/java.svg" alt="Java" height="35"/>
+  
+  <span style="background-color:#000000; color:#ffffff; font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif; font-weight:bold; font-size:11px; letter-spacing:0.5px; display:inline-flex; align-items:center; padding:0 10px; height:28px; vertical-align:middle; box-sizing:border-box;">
+    <img src="https://www.svgrepo.com/show/184143/java.svg" alt="Java" height="14" style="margin-right:6px; filter:brightness(0) invert(1);"/>
+    JAVA
+  </span>
+  
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
 </p>
@@ -65,7 +70,6 @@ Building intelligent multi-agent systems, scalable backend services, and modern 
 <p>
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
 </p>
 

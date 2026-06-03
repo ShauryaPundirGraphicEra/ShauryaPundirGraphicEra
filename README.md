@@ -108,7 +108,7 @@ Building intelligent multi-agent systems, scalable backend services, and modern 
 
   
 <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShauryaPundirGraphicEra&theme=tokyonight" alt="GitHub Streak" /> -->
- <img src="https://streak-stats.demolab.com/?user=ShauryaPundirGraphicEra&theme=tokyonight" alt="GitHub Streak"/>
+ <img src="https://camo.githubusercontent.com/f31989498677cb95aefcac55e6161ed321d4dc9b79d2f9a2cc86f4520f4a1b46/68747470733a2f2f73747265616b2d73746174732e64656d6f6c61622e636f6d2f3f757365723d5368617572796150756e64697247726170686963457261267468656d653d746f6b796f6e69676874" alt="GitHub Streak"/>
 
  
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ShauryaPundirGraphicEra&layout=compact&theme=tokyonight" alt="Top Languages"/>
